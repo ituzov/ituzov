@@ -21,8 +21,9 @@
 курсами про AI-агентов. Её я тоже написал и поддерживаю сам: Next.js,
 FastAPI, PostgreSQL, приём платежей, деплой через Dokploy.
 
-### Стек
+### Любимый стек
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,express,postgres,redis,docker,linux,githubactions&perline=13" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, Redis, Docker, Linux, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,kubernetes,linux,githubactions&perline=14" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL, Redis, Docker, Kubernetes, Linux, GitHub Actions" />
 
-В работе каждый день: Claude Code, Codex, MCP-серверы, агенты на API.
+Выкатываю на свои серверы через Dokploy. В работе каждый день: Claude Code,
+Codex, MCP-серверы, агенты на API.
