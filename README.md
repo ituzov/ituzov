@@ -26,7 +26,3 @@ FastAPI, PostgreSQL, приём платежей, деплой через Dokplo
 <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,express,postgres,redis,docker,linux,githubactions&perline=13" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, Redis, Docker, Linux, GitHub Actions" />
 
 В работе каждый день: Claude Code, Codex, MCP-серверы, агенты на API.
-
-### Активность
-
-<img src="https://streak-stats.demolab.com?user=ituzov&theme=dark&background=0e0e10&ring=c4f82e&fire=c4f82e&currStreakLabel=c4f82e&sideLabels=f1f1ef&currStreakNum=f1f1ef&sideNums=f1f1ef&dates=8a8a8a&stroke=333333&border=0e0e10&hide_border=true" alt="Серия коммитов ituzov" />
