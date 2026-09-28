@@ -23,7 +23,7 @@ FastAPI, PostgreSQL, приём платежей, деплой через Dokplo
 
 ### Любимый стек
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,kubernetes,linux,githubactions&perline=14" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL, Redis, Docker, Kubernetes, Linux, GitHub Actions" /><img src="claude.svg" width="56" height="48" alt="Claude" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,kubernetes,linux,githubactions&perline=14" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL, Redis, Docker, Kubernetes, Linux, GitHub Actions" /><img src="claude.svg" width="60" height="48" alt="Claude" />
 
 Выкатываю на свои серверы через Dokploy. В работе каждый день: Claude Code,
 Codex, MCP-серверы, агенты на API.
