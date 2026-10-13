@@ -22,6 +22,14 @@
 курсами про AI-агентов. Её я тоже написал и поддерживаю сам: Next.js,
 FastAPI, PostgreSQL, приём платежей, деплой через Dokploy.
 
+### Open source
+
+**[Директор](https://github.com/ituzov/director)** отвечает в директ Instagram
+на комментарии с кодовым словом. Человек пишет «гайд» под рилсом, и Директор
+присылает ему обещанное в личку. Ставится на свой сервер одной командой и
+ничего не стоит: код открыт под AGPL-3.0. Как поставить, написано на
+[opendirector.dev](https://opendirector.dev).
+
 ### Любимый стек
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,kubernetes,linux,githubactions&perline=14" alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL, Redis, Docker, Kubernetes, Linux, GitHub Actions" /><img src="claude.svg" width="60" height="48" alt="Claude" />
